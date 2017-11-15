@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Паша Тарасенко](https://up.htmlacademy.ru/javascript/11/user/164879).
-* Наставник: `Неизвестно`.
+* Наставник: `Виталий Усик`.
 
 ---
 
